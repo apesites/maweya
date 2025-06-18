@@ -3,7 +3,7 @@
     padding-bottom: 5rem;
     width: 100%;
     min-height: 50vh;
-    background-color: azure;
+    background: linear-gradient(rgba(155, 169, 150, 0.826), azure);
 }
 .second-landing-inner{
     width: 90%;

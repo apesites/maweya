@@ -1,7 +1,7 @@
 .gallery-sec{
     width: 100%;
     min-height: 50vh;
-    background-color:aliceblue;
+    background-color: azure;
 }
 .gallery-inner{
     display: flex;

@@ -3,6 +3,7 @@
     min-height: 40vh;
     padding-bottom: 4rem;
     padding-top: 3rem;
+    background-color: azure;
 }
 .services-inner{
     display: flex;
